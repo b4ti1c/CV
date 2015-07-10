@@ -1,0 +1,118 @@
+Name: Aytekin Hazar Ilhan
+
+DOB: 07/11/1988
+
+Nationality: Turkish
+
+Marital Status: Single
+
+Military Service: Postponed (Awaiting approval for Ph. D.)
+
+Contact:
+	Address:
+		Hürriyet Mahallesi, Vatansever caddesi, Günbatımı sokak, Tıp Mensupları Sitesi No:35,
+		Yakacık/Kartal, İstanbul/Turkey, Zipcode: 34876
+
+	Phone:
+		+90 533 273 49 03
+
+	E-Mail:
+		hazarilhan@sabanciuniv.edu
+
+	Web:
+		http://hazarilhan.com
+		Linked-in: https://www.linkedin.com/pub/hazar-ilhan/65/aa8/259
+		Github: https://github.com/batilc1
+		Gitlab: https://gitlab.com/u/Ilhan
+
+Languages:  
+	Turkish -Native
+	English -Advanced
+
+Field of Study: Computer Science & Engineering
+
+Qualifications:  
+	Master of Science - CS&E - Sabanci Unviersity (2014 - 2011)
+	Bachelor of Science - CS&E - Sabanci University (2011 - 2006)
+
+Thesis: Design and Implementation of a Digital Holographic Microscopye with Fast Autofocusing (2015)
+
+Skills:  
+	Cognitive:
+		- Teamworker
+		- Reasoning
+		- Fast-adapter
+		- Fast-learner
+		- Innovative
+		- Patient
+		- Musician
+	Technical:
+		- Mobile & Web technologies (Back end & Front end),
+		  Javascript - CSS - HTML, Phonegap/Cordova, 
+		  NodeJS, AngularJS, TartJS, MVC and MVVM patterns
+		- Signal Processing, Image Processing
+		- Parallel Programming (GP-GPU)
+		- Optics (Digital Holography)
+		- Artifical Intelligence
+		- Verilog
+		- Embedded Platforms
+		- Matlab
+		- C/C++/C#, Assembly
+		- Logic Pro
+		- LaTEX
+
+Scholarships:
+	2/3 Scholarship on undergraduate education from Sabanci University
+	2 months of project scholarship from TÜBİTAK (until BİDEB) 
+	100% Scholarship on graduate education from TÜBİTAK BİDEB
+
+About Me:
+	I have always been intrigued by theoretical systems and their practical implications. Throughout my life, I had worked in teams with electronic engineers (EE), in which I humbly believe, led me to a greater understanding of what is possible with future's technology and a broad vision of what possibilities exist for men from today's perspective. I appreciate all the things I learned from the Optics field who introduced me to the world of Fourier domain (an essential mind-set for any engineer). Finally, with respect to Ray Kurzweil, I truely believe that `the singularity is near` and I'm all for innovation. 
+
+Experience:
+	Work:
+		(2015 Summer - 2014 Fall) Kidstory:
+		My first full-time freelance job. Kidstory is a start-up company, and it develops an application that listens your speech and simulataneously plays related music and/or sound effect while you are reading a story to your child. The application is currently only available in iOS. I developed both the front end & the back end of this application. In 2015 Summer, founders decided to halt the development cycle and wanted to focus on the business model and marketing strategies. Further details can be found in http://kidstory.co/ 
+
+		(2015 Summer) Melodikapp:
+		A simple PC application developed for Melodika Game Studio to partially-automate and significantly improve the efficiency of audio-recording sessions of multi-language games.
+
+		(2010 Summer) Intern at Scheidt & Bachmann:
+		Scheidt & Bachmann is a well-established German company that builds systems for parking & leisure centers, signalling, fare collection and petrol stations. During my 2 months internship, I had worked in the petrol stations department, and I was in charge of improving receipt generation according to the feedback from video camera. Due to the quick-completion of this task, I was also assigned to 2 more projects, which included improving the user interface of an on-field controller for company's technicians, and serialization of tank-level data that arrived to the back-end through a RS-485 parallel peripheral.
+
+	Academic:
+		(2014 Fall - 2011 Fall) Real-time Digital Holographic Microscope with Optical Tweezer:
+		Although licensed as Computer Science, my graduate education was involved with mainly Optics and Signal Processing. Through collaboration with an EE peer, we built a digital holographic microscope (DHM) and it's controlling software. This software utilizes an Nvidia GPU to perform intensive holographic calculations in real-time. In industry, DHMs are used for high-precision 3D imaging of objects and cells without staining. In our case, DHM was incorporated with an optical tweezer and live cells were manipulated using the tweezer. My master's thesis benefits from this device as well.
+
+		(2011 Spring - 2010 Fall) AESwarm:
+		AESwarm is my graduation project with an EE peer to build low-cost intelligent robots that demonstrate swarm behaviour. The project was funded by Elektrik Mühendisleri Odası (EMO). We designed and produced robots below the cost of a 50$ which included two brushless dc motors, a dspic33 microprocessor, 8 infrared emitters & sensors, a white-light sensor, a buzzer, and a polymer chasis. The boards were produced in Sabanci University laboratuaries and components were put together by ourselves. The robots made use of Self-Organizing Neural Networks to decide on an action depending on sensorial inputs. 
+
+		(2011 Fall) V-MIPS:
+		V-MIPS is a 16-bit mips processor that is able to process arrays of data at one cycle (similar to graphics processors) in 40Mhz. The processor consists of 5 pipelines and adheres to the standard mips instruction set. The processor is a full custom design implemented in Verilog and run on a Spartan-3 FPGA. We were able to drive VGA monitors while testing the performance of this processor.
+
+Publications:
+	- Digital holographic microscopy and focusing methods based on image sharpness
+	- Journal of Microscopy
+	- Hazar A. İlhan, Mert Doğar, Meriç Özcan
+	- http://onlinelibrary.wiley.com/doi/10.1111/jmi.12144/abstract
+
+	- Real-time, auto-focusing digital holographic microscope using graphics processors
+	- Review of Scientific Instruments
+	- Mert Doğar, Hazar A. İlhan, Meriç Özcan
+	- http://scitation.aip.org/content/aip/journal/rsi/84/8/10.1063/1.4818285
+
+	- Fast autofocusing in digital holography using scaled holograms
+	- Optics Communications
+	- Hazar A. İlhan, Mert Doğar, Meriç Özcan
+	- http://www.sciencedirect.com/science/article/pii/S0030401812010449
+
+	- Autofocusing in digital holography
+	- In Proceedings of SPIE (San Francisco)
+	- Hazar A. İlhan, Mert Doğar, Meriç Özcan
+	- http://spie.org/Publications/Proceedings/Paper/10.1117/12.2002038
+
+	- Real-time reconstruction of digital holograms with GPU
+	- In Proceedings of SPIE (San Francisco)
+	- Mert Doğar, Hazar A. İlhan, Meriç Özcan
+	- http://spie.org/Publications/Proceedings/Paper/10.1117/12.2002036
+
