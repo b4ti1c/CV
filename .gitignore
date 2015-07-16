@@ -2,4 +2,3 @@ latex/*.aux
 latex/*.log
 latex/*.out
 latex/*.gz
-latex/*.pdf
