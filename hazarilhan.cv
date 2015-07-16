@@ -16,11 +16,9 @@ Contact:
 	Phone:
 		+90 533 273 49 03
 
-	E-Mail:
-		hazarilhan@sabanciuniv.edu
-
 	Web:
-		http://hazarilhan.com
+		E-Mail: hazarilhan@sabanciuniv.edu
+		Homepage: http://hazarilhan.com
 		Linked-in: https://www.linkedin.com/pub/hazar-ilhan/65/aa8/259
 		Github: https://github.com/batilc1
 		Gitlab: https://gitlab.com/u/Ilhan
@@ -37,7 +35,7 @@ Qualifications:
 
 Thesis: Design and Implementation of a Digital Holographic Microscopye with Fast Autofocusing (2015)
 
-Skills:  
+Skills:   
 	Cognitive:
 		- Teamworker
 		- Reasoning
@@ -46,9 +44,10 @@ Skills:
 		- Innovative
 		- Patient
 		- Musician
+
 	Technical:
 		- Mobile & Web technologies (Back end & Front end),
-		  Javascript - CSS - HTML, Phonegap/Cordova, 
+		  EcmaScript6 - CSS3 - HTML5, Phonegap/Cordova, 
 		  NodeJS, AngularJS, TartJS, MVC and MVVM patterns
 		- Signal Processing, Image Processing
 		- Parallel Programming (GP-GPU)
@@ -60,6 +59,33 @@ Skills:
 		- C/C++/C#, Assembly
 		- Logic Pro
 		- LaTEX
+
+		- Conceptual:
+			Mobile & Web technologies (Back end & Front end)
+			Signal Processing, Image Processing
+			Parallel Programming (GP-GPU)
+			Optics (Digital Holography)
+			Artifical Intelligence
+			Embedded Platforms
+
+		- Programming:
+			Javascript - CSS - HTML
+			NodeJS, AngularJS, TartJS, MVC and MVVM patterns
+		  	Matlab
+		  	Verilog
+		  	C/C++/C#
+		  	Assembly
+
+		- Tools:
+			Sublime
+			PhoneGap/Cordova
+			Google Closure
+			MongoDB		
+			Git
+			Xilinx
+			LaTEX
+			Logic Pro
+			Pro Tools
 
 Scholarships:
 	2/3 Scholarship on undergraduate education from Sabanci University
@@ -83,6 +109,9 @@ Experience:
 	Academic:
 		(2014 Fall - 2011 Fall) Real-time Digital Holographic Microscope with Optical Tweezer:
 		Although licensed as Computer Science, my graduate education was involved with mainly Optics and Signal Processing. Through collaboration with an EE peer, we built a digital holographic microscope (DHM) and it's controlling software. This software utilizes an Nvidia GPU to perform intensive holographic calculations in real-time. In industry, DHMs are used for high-precision 3D imaging of objects and cells without staining. In our case, DHM was incorporated with an optical tweezer and live cells were manipulated using the tweezer. My master's thesis benefits from this device as well.
+
+		(2013 Spring - 2011 Fall) Teacher Assistant:
+		In my graduate education, I have performed assitantship for Logic (CS) and Microprocessors (EE) courses. Assistantship duties included supervising students during lab hours, preparing semester projects and reading & evaluation of homeworks & examinations.
 
 		(2011 Spring - 2010 Fall) AESwarm:
 		AESwarm is my graduation project with an EE peer to build low-cost intelligent robots that demonstrate swarm behaviour. The project was funded by Elektrik Mühendisleri Odası (EMO). We designed and produced robots below the cost of a 50$ which included two brushless dc motors, a dspic33 microprocessor, 8 infrared emitters & sensors, a white-light sensor, a buzzer, and a polymer chasis. The boards were produced in Sabanci University laboratuaries and components were put together by ourselves. The robots made use of Self-Organizing Neural Networks to decide on an action depending on sensorial inputs. 
