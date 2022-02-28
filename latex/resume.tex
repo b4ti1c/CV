@@ -1,0 +1,215 @@
+\documentclass[rightPos]{ReCeiVe}      % By default, use 'letterpaper' for US letter
+%\geometry{letterpaper, % paper size
+%          left=1.75cm, right=1.75cm, top=1.5cm, bottom=1.5cm, footskip=.6cm, headsep=.5cm, % margins
+%          showframe}                  % show geometry frame
+%          heightrounded}              % avoid underfull vbox warning
+
+% Color for highlights
+\definecolor{highlight}{HTML}{204D43} % Specify your own color
+% \colorlet{highlight}{white}           % Set predefined color
+% Default colors include: darkgray, gray, lightgray, lightblue, orange, red, concrete
+
+% Colors for text - uncomment and modify
+%\definecolor{darktext}{HTML}{414141}
+%\definecolor{text}{HTML}{414141}
+%\definecolor{graytext}{HTML}{414141}
+%\definecolor{lighttext}{HTML}{414141}
+
+%----------------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%----------------------------------------------------------------------------------------
+\background{pics/background1.pdf}
+\photo[circle,edge,fill,left]{2.5cm}{pictures/hazar.jpg}
+\name{A. Hazar}{Ilhan}
+\address{London, UK}
+\mobile{+44 7498 738 196}
+\email{hazar@hitechnologiesltd.com}
+\github{b4ti1c}
+%\linkedin{linkedin}
+%\homepage{www.homepage.com}
+%\twitter{@twit}
+%\xing{xing name}
+%\stackoverflow{SOid}{SOname}
+%\skype{skypeid}
+%\reddit{reddit account}
+%\extrainfo{info}
+
+\position{Computer Science \& Engineering} % Your expertise/fields
+\headwords{Engineer, software geek, technical enthusiast and carpenter} % A few headwords to describe yourself
+% \quote{"Some men see things as they are, and ask why. I dream of things that never were, and ask why not." - Robert Kennedy} % A quote or statement
+
+%----------------------------------------------------------------------------------------
+%	SIDEBAR CONTENT
+%	Fill in the information you would like to add to your sidebar
+%----------------------------------------------------------------------------------------
+
+\aboutMe{
+    Scientist, engineer, manager, learner, team-worker, innovative, patient, adapter
+}
+\skillset[\hfill]{
+    Matlab/.3,
+    C++/.3,
+    Typescript/.5,
+    HTML-CSS/.7,
+    PSQL/.7,
+    AWS\&GCloud/.7,
+    Docker\&Kubernetes/.8,
+    NodeJS/0.95
+}
+\languages{{English/Advanced},{Turkish/Native}}
+\hobbies{gaming, puzzle-solving, music composition, skiing, mini-painting}
+% \nonProfit{%
+% 	\begin{itemize}
+% 	\item{Lorem ipsum dolor sit amet}
+% 	\item{Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec finibus eu felis ullamcorper finibus.}
+% 	\end{itemize}
+% }
+% Usage: \userSection[<section title>]{<content>}
+% \userSection[title]{content}
+
+%----------------------------------------------------------------------------------------
+\begin{document}
+% Print the header
+% Usage: \makecvheader[<position>]
+\makecvheader[L]
+% Print the sidebar
+% Usage: \makecvsidebar[xOffset/value,yOffset/value,noRadius|radius]
+\makecvsidebar
+
+%----------------------------------------------------------------------------------------
+%	CV/RESUME CONTENT
+%	Each section is imported separately, open each file in order to modify it
+%----------------------------------------------------------------------------------------
+% Remove space before first section
+\vspace{-\acvSectionTopSkip}
+\section{Education}
+\cventry
+{MSc in Computer Science \& Engineering} % Education Title
+{Sabanci University} % Organization
+{Istanbul, TR} % Location
+{2011 - 2014} % Date
+\begin{cvitems}
+\item {Thesis: Design and Implementation of a Digital Holographic Microscope \newline with Fast Autofocusing}
+\end{cvitems}
+
+\cventry
+{BSc in Computer Science \& Engineering} % Education title
+{Sabanci University} % Organization
+{Istanbul, TR} % Location
+{2006 - 2011} % Date
+
+\section{Professional Experience}
+\cventry
+{Director} % Job Title
+{HI Technologies Ltd} % Organization
+{London, UK} % Location
+{08/2021 - Present} % Date
+\begin{cvitems}
+\item {Software Development and Consultancy}
+\item {FrontEnd and BackEnd Development}
+\item {DevOps Development}
+\item {System Architecture Design}
+\end{cvitems}
+
+\cventry
+{Joint CTO} % Job Title
+{Ommaworks} % Organization
+{Istanbul, TR} % Location
+{2019 - Present} % Date
+\vspace{-3.0mm}
+\cventry
+{System Architecht \& Engineer} % Job Title
+{} % Organization
+{} % Location
+{2017 - 2019} % Date
+\vspace{-3.0mm}
+\cventry
+{Full-Stack Developer} % Job Title
+{} % Organization
+{} % Location
+{2015 - 2017} % Date
+\begin{cvitems}
+    \item {NodeJS, Typescript, Javascript}
+    \item {AngularJS, React}
+    \item {PSQL}
+    \item {Docker \& Kubernetes}
+    \item {AWS \& Google Cloud}
+\end{cvitems}
+
+\cventry
+{Sr. FrontEnd Developer} % Job Title
+{Markafoni} % Organization
+{Istanbul, TR} % Location
+{09/2015 - 012/2015} % Date
+
+\cventry
+{iOS/Android Developer} % Job Title
+{Kidstory} % Organization
+{Istanbul, TR} % Location
+{2014 - 2015} % Date
+\begin{cvitems}
+    \item {Phonegap/Cordova}
+    \item {NodeJS}
+    \item {MongoDB}
+\end{cvitems}
+
+\cventry
+{Intern Developer} % Job Title
+{Scheidt \& Bachmann} % Organization
+{Mönchengladbach, GER} % Location
+{2010} % Date
+
+\section{Publications}
+\begin{cvhonors}
+\cvhonor{Journal of Microscopy}{ \href{http://dx.doi.org/10.1111/jmi.12144}{\textcolor{blue}{http://dx.doi.org/10.1111/jmi.12144}}}{}{}
+\cvhonor{Review of Scientific Instruments}{\href{http://dx.doi.org/10.1063/1.4818285}{\textcolor{blue}{http://dx.doi.org/10.1063/1.4818285}}}{}{}
+\cvhonor{Optics Communications}{\href{http://dx.doi.org/10.1016/j.optcom.2012.09.036}{\textcolor{blue}{http://dx.doi.org/10.1016/j.optcom.2012.09.036}}}{}{}
+\cvhonor{In Proceedings of SPIE 8644}{\href{http://dx.doi.org/10.1117/12.2002038}{\textcolor{blue}{http://dx.doi.org/10.1117/12.2002038}}}{}{}
+\cvhonor{In Proceedings of SPIE 8644}{\href{http://dx.doi.org/10.1117/12.2002036}{\textcolor{blue}{http://dx.doi.org/10.1117/12.2002036}}}{}{}
+\end{cvhonors}
+% \bibitem
+% \newblock {Hazar A. \.Ilhan, Mert Do\u{g}ar, Meri\c{c} \"Ozcan (2014)},
+% \newblock {\em Digital holographic microscopy and focusing methods based on image sharpness},
+% \newblock Journal of Microscopy, Volume: 255 Issue: 3, 138--149,
+% \newblock \newline{} \href{http://dx.doi.org/10.1111/jmi.12144}{\textcolor{blue}{http://dx.doi.org/10.1111/jmi.12144}}
+
+% \bibitem
+% \newblock {Mert Do\u{g}ar, Hazar A. \.Ilhan, Meri\c{c} \"Ozcan (2013)},
+% \newblock {\em Real-time, auto-focusing digital holographic microscope using graphics processors},
+% \newblock Review of Scientific Instruments, Volume: 84, No: 8, 083704
+% \newblock \newline{} \href{http://dx.doi.org/10.1063/1.4818285}{\textcolor{blue}{http://dx.doi.org/10.1063/1.4818285}}
+
+% \bibitem
+% Hazar A. \.Ilhan, Mert Do\u{g}ar, Meri\c{c} \"Ozcan (2013),
+% \newblock {\em Fast autofocusing in digital holography using scaled holograms},
+% \newblock Optics Communications, Volume: 287, 81--84
+% \newblock \newline{} \href{http://dx.doi.org/10.1016/j.optcom.2012.09.036}{\textcolor{blue}{http://dx.doi.org/10.1016/j.optcom.2012.09.036}}
+
+% \bibitem
+% Hazar A. \.Ilhan, Mert Do\u{g}ar, Meri\c{c} \"Ozcan (2013),
+% \newblock {\em Autofocusing in digital holography},
+% \newblock In Proceedings of SPIE 8644, Practical Holography XXVII: Materials and Applications, 86440C, San Francisco
+% \newblock \newline{} \href{http://dx.doi.org/10.1117/12.2002038}{\textcolor{blue}{http://dx.doi.org/10.1117/12.2002038}}
+
+% \bibitem
+% Mert Do\u{g}ar, Hazar A. \.Ilhan, Meri\c{c} \"Ozcan (2013),
+% \newblock {\em Real-time reconstruction of digital holograms with GPU},
+% \newblock In Proceedings of SPIE 8644, Practical Holography XXVII: Materials and Applications, 86440B, San Francisco
+% \newblock \newline{} \href{http://dx.doi.org/10.1117/12.2002036}{\textcolor{blue}{http://dx.doi.org/10.1117/12.2002036}}
+
+
+% \section{Honors}
+% \begin{cvhonors}
+
+% \cvhonor
+% {1st Place} % Position
+% {Circular Economy Challenge} % Event
+% {Turicum, CH} % Location
+% {2021} % Date
+
+% \end{cvhonors}
+%----------------------------------------------------------------------------------------
+% Usage: \makecvfooter(<left>}{<center>}{<right>)
+\makecvfooter{}{A. Hazar Ilhan~~~·~~~Resume}{\LaTeX{}}
+\end{document}
