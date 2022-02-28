@@ -462,9 +462,9 @@ INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr5.tfm
 INPUT /Users/batilc/Workspace/CV/latex/pics/background1.pdf
 INPUT /Users/batilc/Workspace/CV/latex/pics/background1.pdf
 INPUT /Users/batilc/Workspace/CV/latex/pics/background1.pdf
-INPUT /Users/batilc/Workspace/CV/latex/pictures/hazar.jpg
-INPUT /Users/batilc/Workspace/CV/latex/pictures/hazar.jpg
-INPUT /Users/batilc/Workspace/CV/latex/pictures/hazar.jpg
+INPUT /Users/batilc/Workspace/CV/latex/pictures/hazar-cropped.jpg
+INPUT /Users/batilc/Workspace/CV/latex/pictures/hazar-cropped.jpg
+INPUT /Users/batilc/Workspace/CV/latex/pictures/hazar-cropped.jpg
 INPUT /Users/batilc/Library/texlive/2021/texmf-var/luatex-cache/generic/fonts/otl/lmroman8-regular.luc
 INPUT /Users/batilc/Library/texlive/2021/texmf-var/luatex-cache/generic/fonts/otl/lmroman6-regular.luc
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
